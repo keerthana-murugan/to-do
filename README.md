@@ -1,3 +1,3 @@
 # to-do
 
-https://codepen.io/lady_king/pen/MWooVLa
+https://codepen.io/lady_king/full/MWooVLa
